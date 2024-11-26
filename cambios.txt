@@ -1,0 +1,15 @@
+formulario.js
+
+# La ruta del formulario esta mal ../ 
+# dejar solo id="form".
+
+
+formulario.js
+
+#  La accion del formulario falta
+# Boton de enviar 
+# Corregir e.prevent(); a e.preventDefault();.
+
+Agregar el contenedor id="lista-de-invitados" en el HTML.
+
+# La funcion de borrar deberia de estar por fuera para una buena practica
